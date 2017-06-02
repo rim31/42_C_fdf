@@ -25,7 +25,7 @@ this progm links points of a map in a folder
 
 
 result :
-![Texte alternatif](https://github.com/rim31/42-C-fdf/blob/master/Screen%20Shot%202016-05-16%20at%202.29.27%20PM.png "basic render")
+![Texte alternatif](https://github.com/rim31/42_C_fdf/blob/master/Screen%20Shot%202016-05-16%20at%202.29.27%20PM.png "basic render")
 
 # Bonus
 move with arrows,
@@ -34,11 +34,11 @@ boutton 3 for colors,
 rotation with others clics,
 zoom numericpad 9 or 6,
 higth : '-" or '+'
-![Texte alternatif](https://github.com/rim31/42-C-fdf/blob/master/Screen%20Shot%202016-05-16%20at%202.36.35%20PM.png "bonus render")
+![Texte alternatif](https://github.com/rim31/42_C_fdf/blob/master/Screen%20Shot%202016-05-16%20at%202.36.35%20PM.png "bonus render")
 
 
 # run
-git clone https://github.com/rim31/42-C-fdf.git
+git clone https://github.com/rim31/42_C_fdf.git
 
 make
 
